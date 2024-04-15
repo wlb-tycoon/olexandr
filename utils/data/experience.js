@@ -8,7 +8,13 @@ export const experiences = [
   {
     id: 2,
     title: "AI / ML & E-Commerce Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2022 - Present)",
+    company: "Epam Systems",
+    duration: "(Jun 2022 - Mar 2024)",
+  },
+  {
+    id: 3,
+    title: "AI / ML & E-Commerce Developer",
+    company: "Upwork",
+    duration: "(Apr 2024 - Present)",
   },
 ];
