@@ -14,7 +14,7 @@ function Footer() {
           <p className="text-sm">
             © Developer Portfolio by{" "}
             <Link target="_blank" href="" className="text-[#16f2b3]">
-              Podhrebelnyi Olexandr
+              Podhrebelnyi Oleksandr
             </Link>
           </p>
           <div className="flex items-center gap-5">
