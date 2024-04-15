@@ -8,8 +8,6 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
-
 ---
 
 ## Table of Contents :scroll:
@@ -99,26 +97,6 @@ NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
 
 Eg:
-
-```javascript
-export const personalData = {
-  name: "Podhrebelnyi Olexandr",
-  profile: "/profile.jpg",
-  designation: "Full-Stack Software Developer",
-  description: "My name is Podhrebelnyi Olexandr....",
-  email: "algyareginald@gmail.com",
-  phone: "",
-  address: "",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
 
 `devUsername` Used for fetching blog from `dev.to`.
 
