@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: "Full-stack Developer",
     company: "Wix Ltd.",
-    duration: "(Nov 2018 - Apr 2022)",
+    duration: "(Feb 2018 - Apr 2022)",
   },
   {
     id: 2,
